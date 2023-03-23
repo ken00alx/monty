@@ -4,8 +4,8 @@
  * add_top - adds the first two elements in a stack
  * and removes the top element to leave the result
  * in a new top
- * @stack: the stack as a doubly linked list
- * @line_number: the line number
+ * @stack: the stack as a doubly_linked_list
+ * @line_number: the line_number
  * Return: nothing
  */
 void add_top(stack_t **stack, unsigned int line_number)
