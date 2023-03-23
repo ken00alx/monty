@@ -2,8 +2,8 @@
 
 /**
  * print_stack - prints the stack in order
- * @stack: the stack as a doubly linked list
- * @line_number: the line number
+ * @stack: the stack as a doubly_linked_list
+ * @line_number: the line_number
  * Return: nothing
  */
 void print_stack(stack_t **stack, unsigned int line_number)
